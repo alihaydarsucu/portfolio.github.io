@@ -513,3 +513,11 @@ p {
 strong {
     color: #333;
 }
+
+.container-ed-exp h2, h3 {
+  text-align: center;
+}
+
+.container-ed-exp h2 {
+  color: var(--primary-color); 
+}
