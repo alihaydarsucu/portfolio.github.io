@@ -407,6 +407,7 @@ footer {
 
   .projects-container {
     flex-direction: column;
+    align-items: center;
   }
 
   .project-container {
