@@ -114,6 +114,8 @@ nav ul li {
 .hero img {
   height: 100%; /* Set height to 100% */
   border-radius: 18px;
+  height: 30rem;
+  width: 30rem;
 }
 
 .bio {
