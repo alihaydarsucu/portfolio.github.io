@@ -343,60 +343,6 @@ footer {
   margin: 10px;
 }
 
-/* Education and Experience section */
-.container-ed-exp {
-  width: 80%;
-  margin: auto;
-  overflow: hidden;
-}
-
-h2 {
-  padding-bottom: 10px;
-}
-
-.experience-ed-exp, .education-ed-exp {
-  background: #fff;
-  padding: 20px;
-  margin-bottom: 20px;
-  border-radius: 5px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-.job-ed-exp, .school-ed-exp {
-  display: flex;
-  align-items: flex-start;
-  margin-bottom: 20px;
-}
-
-.job-ed-exp img, .school-ed-exp img {
-  width: 50px;
-  height: 50px;
-  margin-right: 15px;
-}
-
-.job-ed-exp h3, .school-ed-exp h3 {
-  color: #333;
-  margin: 0;
-  padding: 0;
-}
-
-.company-ed-exp, .degree-ed-exp {
-  color: #666;
-  font-style: italic;
-}
-
-.date-ed-exp, .location-ed-exp, .grade-ed-exp {
-  color: #999;
-}
-
-p {
-  line-height: 1.6;
-}
-
-strong {
-  color: #333;
-}
-
 /* Media queries for responsiveness */
 @media screen and (max-width: 720px) {
   nav {
@@ -519,4 +465,49 @@ strong {
     width: auto;
     margin-bottom: 1rem;
   }
+}
+
+.container-ed-exp {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+h2 {
+    padding-bottom: 10px;
+}
+
+.experience-ed-exp, .education-ed-exp {
+    background: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.job-ed-exp, .school-ed-exp {
+    margin-bottom: 20px;
+}
+
+.job-ed-exp h3, .school-ed-exp h3 {
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.company-ed-exp, .degree-ed-exp {
+    color: #666;
+    font-style: italic;
+}
+
+.date-ed-exp, .location-ed-exp, .grade-ed-exp {
+    color: #999;
+}
+
+p {
+    line-height: 1.6;
+}
+
+strong {
+    color: #333;
 }
