@@ -520,6 +520,10 @@ strong {
   text-align: center;
 }
 
-.aybu {
+.degree-ed-exp, h3, .company-ed-exp {
   text-align: center;
   }
+
+.school-ed-exp img {
+  align-items: center;
+}
