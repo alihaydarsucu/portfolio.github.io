@@ -3,12 +3,15 @@
 https://alihaydarsucu.github.io/portfolio/
 
 
-This E-Portfolio project was a school assignment in the School of Foreign Languages of Ankara Yildirim Beyazit University. 
+This E-Portfolio Project was an assignment in the School of Foreign Languages, Ankara Yildirim Beyazit University.
 
-It was a capstone assignment to develop foreign language skills and to reflect on students' foreign language learning process, their process of expressing themselves in that language 
-and to present it in the presentation “Beyond Self: E-Portfolios & Ecological Second Language Motivation”. 
+The assignment aimed to develop students' foreign language skills in digital spaces as well as providing room for them to reflect on their learning process. 
 
-## Project Responsible Instructors: 
+
+Eventually students presented their eportfolios at the FLE Joint Conference (June 7, 2024) with the title “Beyond Self: E-Portfolios & Ecological Second Language Motivation”.
+
+## Project Supervisors: 
+
 **Dr. Ahmet Colak** 
 
 & 
