@@ -14,9 +14,15 @@ Eventually students presented their eportfolios at the FLE Joint Conference (Jun
 
 **Dr. Ahmet Colak** 
 
+
+[İnformation about Dr. Ahmet Colak](https://avesis.aybu.edu.tr/12049)
+
 & 
 
 **Dr. Hatice Karaaslan**
+
+
+[İnformation about Dr. Hatice Karaaslan](https://avesis.aybu.edu.tr/hkaraaslan)
 
 ## Credits:
 
